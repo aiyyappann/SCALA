@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Do not ignore directories so Git can find .scala files
+!*/
+
+# Do not ignore .scala files
+!*.scala
+
+# (Optional) Keep the .gitignore file itself under version control
+!.gitignore
